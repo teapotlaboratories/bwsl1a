@@ -360,6 +360,14 @@
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid 9db0062f-2e9f-4250-a04c-39b12f9dedad)
     )
+    (pin "GPS_SCL" bidirectional (at 69.85 124.46 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid a3f9990d-60a7-47f7-a9c6-3004fbc9a60e)
+    )
+    (pin "GPS_SDA" bidirectional (at 69.85 121.92 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid bc371223-6b39-43d2-a62c-aa4f1cd96435)
+    )
   )
 
   (sheet_instances
