@@ -1302,6 +1302,18 @@
     (path "/5a0cf2af-562f-4c93-aa06-b80080350c15/a001ac87-65a8-4977-8810-469e48d71c7d"
       (reference "TP26") (unit 1) (value "GND") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
     )
+    (path "/95cb497e-4575-4b60-9280-05bd4e24f5e7/1daa6c5b-8fe6-4836-bf4c-2df54206462c"
+      (reference "TP27") (unit 1) (value "TR0_TAP") (footprint "TestPoint:TestPoint_Pad_D2.0mm")
+    )
+    (path "/95cb497e-4575-4b60-9280-05bd4e24f5e7/7110880e-2ebb-461d-8917-9bd6d1ffddb6"
+      (reference "TP28") (unit 1) (value "TR1_TAP") (footprint "TestPoint:TestPoint_Pad_D2.0mm")
+    )
+    (path "/95cb497e-4575-4b60-9280-05bd4e24f5e7/a21abb22-0c47-4ec0-9598-93703907152c"
+      (reference "TP29") (unit 1) (value "TR2_TAP") (footprint "TestPoint:TestPoint_Pad_D2.0mm")
+    )
+    (path "/95cb497e-4575-4b60-9280-05bd4e24f5e7/73190640-a6e4-4c04-984c-37ae7a7d20d5"
+      (reference "TP30") (unit 1) (value "TR3_TAP") (footprint "TestPoint:TestPoint_Pad_D2.0mm")
+    )
     (path "/95cb497e-4575-4b60-9280-05bd4e24f5e7/3b6fe0ba-64e6-4986-913f-79f9a5b32031"
       (reference "U1") (unit 1) (value "TPD4EUSB30") (footprint "Package_SON:USON-10_2.5x1.0mm_P0.5mm")
     )
