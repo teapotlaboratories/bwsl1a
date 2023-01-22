@@ -143,10 +143,10 @@
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 0 0 0 0.0000))
     (uuid 5a0cf2af-562f-4c93-aa06-b80080350c15)
-    (property "Sheet name" "Power" (id 0) (at 195.58 100.8884 0)
+    (property "Sheet name" "PowerOut" (id 0) (at 195.58 100.8884 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheet file" "Power.kicad_sch" (id 1) (at 195.58 135.2046 0)
+    (property "Sheet file" "PowerOut.kicad_sch" (id 1) (at 195.58 135.2046 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (pin "+3.3vL" output (at 222.25 113.03 0)
@@ -173,8 +173,41 @@
   )
 
   (symbol_instances
-    (path "/5a0cf2af-562f-4c93-aa06-b80080350c15/d955a2a5-f959-4639-afd4-68da258fdd15"
-      (reference "#PWR0134") (unit 1) (value "GND") (footprint "")
+    (path "/5a0cf2af-562f-4c93-aa06-b80080350c15/4871d2ae-a773-44fb-a84a-f6f49eaad217"
+      (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/5a0cf2af-562f-4c93-aa06-b80080350c15/4fb9b3c9-43ec-4be5-b2eb-267eefe522b4"
+      (reference "#PWR0102") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/5a0cf2af-562f-4c93-aa06-b80080350c15/1b5abcf0-2a87-458f-b1d1-98c8a445db17"
+      (reference "#PWR0103") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/5a0cf2af-562f-4c93-aa06-b80080350c15/3711bce7-0797-4efa-9e77-72fe559c751d"
+      (reference "#PWR0104") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/5a0cf2af-562f-4c93-aa06-b80080350c15/04c1f9da-c8e9-4beb-99cb-ff8838f1fd5f"
+      (reference "#PWR0105") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/5a0cf2af-562f-4c93-aa06-b80080350c15/20e14c0b-6486-4711-9d85-589d085e2ba3"
+      (reference "#PWR0106") (unit 1) (value "~") (footprint "")
+    )
+    (path "/5a0cf2af-562f-4c93-aa06-b80080350c15/73765e79-092c-47ba-8638-124dd80e461f"
+      (reference "#PWR0107") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/5a0cf2af-562f-4c93-aa06-b80080350c15/d74fd4e6-dda5-4b0a-9281-50912d229d8f"
+      (reference "#PWR0108") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/5a0cf2af-562f-4c93-aa06-b80080350c15/57720542-bdde-4812-ae04-f6c39f4da1e5"
+      (reference "#PWR0109") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/5a0cf2af-562f-4c93-aa06-b80080350c15/6377d728-1038-40d4-8681-ce7fe79c5248"
+      (reference "#PWR0110") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/5a0cf2af-562f-4c93-aa06-b80080350c15/94062c5c-0205-48cd-835d-0cc87df473b9"
+      (reference "#PWR0111") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/5a0cf2af-562f-4c93-aa06-b80080350c15/cb893612-c825-49d3-b7ba-e7e76ca792b9"
+      (reference "#PWR0112") (unit 1) (value "GND") (footprint "")
     )
     (path "/5a0cf2af-562f-4c93-aa06-b80080350c15/c9e18337-2ec2-458c-a4f3-3392674a4649"
       (reference "#PWR0136") (unit 1) (value "GND") (footprint "")
@@ -184,9 +217,6 @@
     )
     (path "/5a0cf2af-562f-4c93-aa06-b80080350c15/0afeaa53-139e-4397-893a-defe9287fcd9"
       (reference "#PWR0138") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/5a0cf2af-562f-4c93-aa06-b80080350c15/fb2b63f3-4450-4c59-86f5-f59d982eb02f"
-      (reference "#PWR0139") (unit 1) (value "GND") (footprint "")
     )
     (path "/71100c52-3f0a-4ff2-adeb-a36672cf8d11"
       (reference "H1") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_3mm_Pad_Via")
@@ -205,6 +235,9 @@
     )
     (path "/5a0cf2af-562f-4c93-aa06-b80080350c15/8009f347-d94d-4489-a49b-5cbf7d6104e7"
       (reference "J2") (unit 1) (value "3.3V SWARM") (footprint "Connector_Wire:SolderWire-0.5sqmm_1x02_P4.8mm_D0.9mm_OD2.3mm")
+    )
+    (path "/5a0cf2af-562f-4c93-aa06-b80080350c15/7847659a-1058-4f43-b4f5-2773b1f0de33"
+      (reference "J3") (unit 1) (value "Conn_01x02") (footprint "Teapot:Makeit_USB_C_PD_Trigger")
     )
     (path "/5a0cf2af-562f-4c93-aa06-b80080350c15/0e1ec2e7-fca0-4829-89d5-df370423a2a8"
       (reference "J4") (unit 1) (value "5V") (footprint "Connector_Wire:SolderWire-0.5sqmm_1x02_P4.8mm_D0.9mm_OD2.3mm")
@@ -229,6 +262,24 @@
     )
     (path "/5a0cf2af-562f-4c93-aa06-b80080350c15/a001ac87-65a8-4977-8810-469e48d71c7d"
       (reference "TP26") (unit 1) (value "GND") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
+    )
+    (path "/5a0cf2af-562f-4c93-aa06-b80080350c15/56dd2d16-b71d-4f91-b777-84499d5fa617"
+      (reference "U1") (unit 1) (value "3V3") (footprint "Teapot:LM2596Module")
+    )
+    (path "/5a0cf2af-562f-4c93-aa06-b80080350c15/c926d4c4-c8a3-4913-a640-2e32cc2f6e1e"
+      (reference "U2") (unit 1) (value "3V3") (footprint "Teapot:LM2596Module")
+    )
+    (path "/5a0cf2af-562f-4c93-aa06-b80080350c15/da2b046c-2556-4973-88a1-9d20d4398b3c"
+      (reference "U3") (unit 1) (value "5V") (footprint "Teapot:LM2596Module")
+    )
+    (path "/5a0cf2af-562f-4c93-aa06-b80080350c15/692c4fc3-4c00-4874-bf9b-809816ab417f"
+      (reference "U4") (unit 1) (value "3V3") (footprint "Teapot:MiniMP1584ENModule")
+    )
+    (path "/5a0cf2af-562f-4c93-aa06-b80080350c15/e4f6779f-248c-43d4-ac69-68bbd89522b7"
+      (reference "U5") (unit 1) (value "3V3") (footprint "Teapot:MiniMP1584ENModule")
+    )
+    (path "/5a0cf2af-562f-4c93-aa06-b80080350c15/491cad57-fe8f-4786-8fc0-ea2136645ee9"
+      (reference "U6") (unit 1) (value "5V") (footprint "Teapot:MiniMP1584ENModule")
     )
   )
 )

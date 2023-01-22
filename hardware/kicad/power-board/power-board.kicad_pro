@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.508
+          "min_clearance": 1.0
         }
       },
       "diff_pair_dimensions": [
@@ -125,7 +125,9 @@
         0.25,
         0.5,
         1.0,
-        2.0
+        2.0,
+        3.0,
+        4.0
       ],
       "via_dimensions": [
         {
@@ -464,7 +466,7 @@
     ],
     [
       "5a0cf2af-562f-4c93-aa06-b80080350c15",
-      "Power"
+      "PowerOut"
     ]
   ],
   "text_variables": {}
