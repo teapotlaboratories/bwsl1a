@@ -834,12 +834,6 @@
     (path "/95cb497e-4575-4b60-9280-05bd4e24f5e7/00000000-0000-0000-0000-00005e4f0ad3"
       (reference "#PWR0106") (unit 1) (value "GND") (footprint "")
     )
-    (path "/95cb497e-4575-4b60-9280-05bd4e24f5e7/7fe0fc88-c3ce-4033-b662-80fae435f02c"
-      (reference "#PWR0107") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/95cb497e-4575-4b60-9280-05bd4e24f5e7/63347f4d-d05b-41bb-8bac-edc18e740fec"
-      (reference "#PWR0108") (unit 1) (value "GND") (footprint "")
-    )
     (path "/95cb497e-4575-4b60-9280-05bd4e24f5e7/00000000-0000-0000-0000-00005ebccb18"
       (reference "#PWR0109") (unit 1) (value "GND") (footprint "")
     )
@@ -1122,23 +1116,17 @@
     (path "/5a239eb7-1ff2-4664-858a-1c1aa6ab12a3/a77c7cba-02f9-41d4-bd65-1f384bd8b3e5"
       (reference "J7") (unit 1) (value "USB_OTG") (footprint "Teapot:USB_Micro-B_EDAC_UCON00686")
     )
+    (path "/95cb497e-4575-4b60-9280-05bd4e24f5e7/fc76504f-76b4-4aff-b79f-f35cd462e99c"
+      (reference "J8") (unit 1) (value "Conn_01x04") (footprint "Connector_Molex:Molex_Pico-Lock_504050-0591_1x05-1MP_P1.50mm_Horizontal")
+    )
     (path "/5a239eb7-1ff2-4664-858a-1c1aa6ab12a3/00000000-0000-0000-0000-00005d36716d"
       (reference "J14") (unit 1) (value "Conn_02x05_Odd_Even") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical")
     )
     (path "/4211994a-5c92-4691-b6b3-85a15e2e3b3f/00000000-0000-0000-0000-00005d0e2a28"
       (reference "J17") (unit 1) (value "Molex 470531000") (footprint "Connector:FanPinHeader_1x04_P2.54mm_Vertical")
     )
-    (path "/95cb497e-4575-4b60-9280-05bd4e24f5e7/4374a9b8-1e0b-4fd7-91fe-cc29e9c897d5"
-      (reference "JP1") (unit 1) (value "WL_DISABLE") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm")
-    )
-    (path "/95cb497e-4575-4b60-9280-05bd4e24f5e7/f3841cf2-7d9e-42f9-b083-0065d0bee421"
-      (reference "JP2") (unit 1) (value "BT_DISABLE") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm")
-    )
     (path "/95cb497e-4575-4b60-9280-05bd4e24f5e7/76746207-549a-407f-9c9a-290d8b45b2f0"
       (reference "JP3") (unit 1) (value "EEPROM_WP") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm")
-    )
-    (path "/95cb497e-4575-4b60-9280-05bd4e24f5e7/d14af199-3fb3-48e3-b911-852d8625a1e9"
-      (reference "JP4") (unit 1) (value "USB_BOOT") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm")
     )
     (path "/95cb497e-4575-4b60-9280-05bd4e24f5e7/c68d3d2d-ebc5-445b-8d03-5dab8cc6663c"
       (reference "Module1") (unit 1) (value "ComputeModule4-CM4") (footprint "Teapot:Raspberry-Pi-4-Compute-Module")
@@ -1154,12 +1142,6 @@
     )
     (path "/95cb497e-4575-4b60-9280-05bd4e24f5e7/00000000-0000-0000-0000-00005e0adefe"
       (reference "R3") (unit 1) (value "470R") (footprint "Resistor_SMD:R_0402_1005Metric")
-    )
-    (path "/95cb497e-4575-4b60-9280-05bd4e24f5e7/00000000-0000-0000-0000-00005e5f7bb2"
-      (reference "R4") (unit 1) (value "nf") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/95cb497e-4575-4b60-9280-05bd4e24f5e7/00000000-0000-0000-0000-00005e5f44e8"
-      (reference "R5") (unit 1) (value "0R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
     (path "/95cb497e-4575-4b60-9280-05bd4e24f5e7/fe8ba5c1-0250-4d27-81e0-30848aab1923"
       (reference "R6") (unit 1) (value "0R") (footprint "Resistor_SMD:R_0402_1005Metric")
