@@ -1676,7 +1676,7 @@
     (uuid be384f47-e070-4309-841a-dbc23f137bc2)
   )
   (polyline (pts (xy 11.43 105.41) (xy 284.48 105.41))
-    (stroke (width 0) (type default) (color 0 0 0 0))
+    (stroke (width 0) (type solid) (color 0 0 0 0))
     (uuid bf35306f-370f-48ee-8818-2115c5574b31)
   )
 
@@ -1913,6 +1913,10 @@
     (uuid ff9d396d-57b0-4501-ae06-107e82c9577f)
   )
 
+  (text "TODO: Modify FB resistor for 3v3 output" (at 156.21 135.89 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 0328b981-afd0-4aba-a4e0-976a94cff6a6)
+  )
   (text "TODO: Verify regulator's inductor and capacitor value and size"
     (at 220.98 165.1 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
