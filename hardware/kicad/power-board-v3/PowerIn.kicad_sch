@@ -1310,7 +1310,7 @@
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid aded8eb4-cd30-4858-be86-8c28296bd601)
   )
-  (hierarchical_label "+12vHeader" (shape input) (at 67.31 121.92 180)
+  (hierarchical_label "+12v_Header" (shape input) (at 67.31 121.92 180)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid d4b1ce0f-7c49-4445-8142-6683a8e0acf6)
   )
