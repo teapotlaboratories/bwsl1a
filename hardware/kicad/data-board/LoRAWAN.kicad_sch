@@ -787,6 +787,11 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 2b39081e-e01b-493d-9ef2-c00027be41ed)
   )
+  (text "Uses 2x Sinhoo SMTSO2520CTJ Stand-offs\nto hold Mini PCIE in-place"
+    (at 16.51 19.685 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid a6e52055-4688-447b-b89d-0d334e810d0a)
+  )
   (text " Decoupling and Feed-through Capacitors" (at 179.07 57.15 0)
     (effects (font (size 2 2)) (justify left bottom))
     (uuid ea386e36-7830-4551-a427-df1ba6e5632d)
