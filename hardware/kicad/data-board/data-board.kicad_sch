@@ -912,9 +912,6 @@
     (path "/5a0cf2af-562f-4c93-aa06-b80080350c15/d955a2a5-f959-4639-afd4-68da258fdd15"
       (reference "#PWR0134") (unit 1) (value "GND") (footprint "")
     )
-    (path "/95cb497e-4575-4b60-9280-05bd4e24f5e7/457d4229-0f9f-4f5c-b13e-2c3f21e0ff48"
-      (reference "#PWR0135") (unit 1) (value "GND") (footprint "")
-    )
     (path "/5a0cf2af-562f-4c93-aa06-b80080350c15/c9e18337-2ec2-458c-a4f3-3392674a4649"
       (reference "#PWR0136") (unit 1) (value "GND") (footprint "")
     )
@@ -1101,8 +1098,8 @@
     (path "/5a0cf2af-562f-4c93-aa06-b80080350c15/8009f347-d94d-4489-a49b-5cbf7d6104e7"
       (reference "J2") (unit 1) (value "3.3V SWARM") (footprint "Teapot:PogoPinContact_2_P4.8mm_D2.3mm_H0.7mm")
     )
-    (path "/95cb497e-4575-4b60-9280-05bd4e24f5e7/d998addc-b2e7-4931-962d-46826daf0755"
-      (reference "J3") (unit 1) (value "BMS I2C") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
+    (path "/95cb497e-4575-4b60-9280-05bd4e24f5e7/35a75d60-cf0d-400f-9858-ed2d69f6e28f"
+      (reference "J3") (unit 1) (value "Power Controller") (footprint "Teapot:PogoPinContact_2_P4.8mm_D2.3mm_H0.7mm")
     )
     (path "/5a0cf2af-562f-4c93-aa06-b80080350c15/0e1ec2e7-fca0-4829-89d5-df370423a2a8"
       (reference "J4") (unit 1) (value "5V") (footprint "Teapot:PogoPinContact_2_P4.8mm_D2.3mm_H0.7mm")

@@ -659,6 +659,11 @@
     (effects (font (size 2.0066 2.0066)) (justify left bottom))
     (uuid 72c6260f-29c8-4c44-a70d-3263c42848a0)
   )
+  (text "Uses 2x Sinhoo SMTSO2520CTJ Stand-offs\nto hold Mini PCIE in-place"
+    (at 14.605 19.05 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 88d4ecd0-52e3-4c94-8900-6b5bcb0c2282)
+  )
   (text "Ceramic capacitors rated for 16V or greater, X5R or better"
     (at 171.45 86.36 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
