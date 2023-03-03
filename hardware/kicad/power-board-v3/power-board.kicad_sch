@@ -676,9 +676,6 @@
     (path "/52ab84f9-86df-44b6-8543-213cedbc069e/a5d6051f-b987-4650-9958-64f9eb516a12"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
-    (path "/52ab84f9-86df-44b6-8543-213cedbc069e/b5b00333-407b-4415-9e22-e446f2321f0a"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
     (path "/5a0cf2af-562f-4c93-aa06-b80080350c15/bb942852-aead-4b3d-88f9-25cd86bbe93b"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
@@ -901,9 +898,6 @@
     (path "/5a0cf2af-562f-4c93-aa06-b80080350c15/8009f347-d94d-4489-a49b-5cbf7d6104e7"
       (reference "J2") (unit 1) (value "3.3V SWARM") (footprint "Connector_Wire:SolderWire-0.5sqmm_1x02_P4.8mm_D0.9mm_OD2.3mm")
     )
-    (path "/52ab84f9-86df-44b6-8543-213cedbc069e/c9f11054-ac62-431b-892b-a8a6f9fe4d80"
-      (reference "J3") (unit 1) (value "~") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical")
-    )
     (path "/5a0cf2af-562f-4c93-aa06-b80080350c15/0e1ec2e7-fca0-4829-89d5-df370423a2a8"
       (reference "J4") (unit 1) (value "5V") (footprint "Connector_Wire:SolderWire-0.5sqmm_1x02_P4.8mm_D0.9mm_OD2.3mm")
     )
@@ -930,6 +924,9 @@
     )
     (path "/52ab84f9-86df-44b6-8543-213cedbc069e/1cd11db4-580b-4c00-98af-821c614cc316"
       (reference "J?") (unit 1) (value "SERIAL_PROGRAMMING") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical")
+    )
+    (path "/52ab84f9-86df-44b6-8543-213cedbc069e/324570e6-2698-4955-b008-e9b608b5c516"
+      (reference "J?") (unit 1) (value "Conn_01x02") (footprint "")
     )
     (path "/52ab84f9-86df-44b6-8543-213cedbc069e/3a91576c-2e30-4e31-aedd-113629c8ead8"
       (reference "J?") (unit 1) (value "Conn_ARM_JTAG_SWD_10") (footprint "Connector:Tag-Connect_TC2050-IDC-FP_2x05_P1.27mm_Vertical")
