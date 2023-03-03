@@ -1117,7 +1117,7 @@
       (reference "J7") (unit 1) (value "USB_OTG") (footprint "Teapot:USB_Micro-B_EDAC_UCON00686")
     )
     (path "/95cb497e-4575-4b60-9280-05bd4e24f5e7/fc76504f-76b4-4aff-b79f-f35cd462e99c"
-      (reference "J8") (unit 1) (value "Conn_01x04") (footprint "Connector_Molex:Molex_Pico-Lock_504050-0591_1x05-1MP_P1.50mm_Horizontal")
+      (reference "J8") (unit 1) (value "Conn_01x04") (footprint "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal")
     )
     (path "/5a239eb7-1ff2-4664-858a-1c1aa6ab12a3/00000000-0000-0000-0000-00005d36716d"
       (reference "J14") (unit 1) (value "Conn_02x05_Odd_Even") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical")
