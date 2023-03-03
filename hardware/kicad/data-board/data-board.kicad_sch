@@ -388,7 +388,7 @@
     (property "Value" "MountingHole" (id 1) (at 26.67 181.6099 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MountingHole:MountingHole_3mm_Pad_Via" (id 2) (at 24.13 180.34 0)
+    (property "Footprint" "Teapot:Sinhoo_SMTSO30" (id 2) (at 24.13 180.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 24.13 180.34 0)
@@ -405,7 +405,7 @@
     (property "Value" "MountingHole" (id 1) (at 26.67 186.6899 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MountingHole:MountingHole_3mm_Pad_Via" (id 2) (at 24.13 185.42 0)
+    (property "Footprint" "Teapot:Sinhoo_SMTSO30" (id 2) (at 24.13 185.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 24.13 185.42 0)
@@ -422,7 +422,7 @@
     (property "Value" "MountingHole" (id 1) (at 26.67 171.4499 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MountingHole:MountingHole_3mm_Pad_Via" (id 2) (at 24.13 170.18 0)
+    (property "Footprint" "Teapot:Sinhoo_SMTSO30" (id 2) (at 24.13 170.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 24.13 170.18 0)
@@ -439,7 +439,7 @@
     (property "Value" "MountingHole" (id 1) (at 26.67 176.5299 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MountingHole:MountingHole_3mm_Pad_Via" (id 2) (at 24.13 175.26 0)
+    (property "Footprint" "Teapot:Sinhoo_SMTSO30" (id 2) (at 24.13 175.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 24.13 175.26 0)
@@ -1084,34 +1084,34 @@
       (reference "D3") (unit 1) (value "BAT54C-7-F") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/71100c52-3f0a-4ff2-adeb-a36672cf8d11"
-      (reference "H1") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_3mm_Pad_Via")
+      (reference "H1") (unit 1) (value "MountingHole") (footprint "Teapot:Sinhoo_SMTSO30")
     )
     (path "/9ec2ef1a-b9fb-4468-b15c-13eb89a96366"
-      (reference "H2") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_3mm_Pad_Via")
+      (reference "H2") (unit 1) (value "MountingHole") (footprint "Teapot:Sinhoo_SMTSO30")
     )
     (path "/549e5e4d-e415-43be-9f47-0e3cfa91a4ae"
-      (reference "H3") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_3mm_Pad_Via")
+      (reference "H3") (unit 1) (value "MountingHole") (footprint "Teapot:Sinhoo_SMTSO30")
     )
     (path "/6600bbf5-b119-40fe-8582-411a0a3798e1"
-      (reference "H4") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_3mm_Pad_Via")
+      (reference "H4") (unit 1) (value "MountingHole") (footprint "Teapot:Sinhoo_SMTSO30")
     )
     (path "/5a0cf2af-562f-4c93-aa06-b80080350c15/a961d4a1-7261-49f8-918c-7e9b5cbbd00d"
-      (reference "J1") (unit 1) (value "3.3V LoRaWAN") (footprint "Connector_Wire:SolderWire-0.5sqmm_1x02_P4.8mm_D0.9mm_OD2.3mm")
+      (reference "J1") (unit 1) (value "3.3V LoRaWAN") (footprint "Teapot:PogoPinContact_2_P4.8mm_D2.3mm_H0.7mm")
     )
     (path "/5a0cf2af-562f-4c93-aa06-b80080350c15/8009f347-d94d-4489-a49b-5cbf7d6104e7"
-      (reference "J2") (unit 1) (value "3.3V SWARM") (footprint "Connector_Wire:SolderWire-0.5sqmm_1x02_P4.8mm_D0.9mm_OD2.3mm")
+      (reference "J2") (unit 1) (value "3.3V SWARM") (footprint "Teapot:PogoPinContact_2_P4.8mm_D2.3mm_H0.7mm")
     )
     (path "/95cb497e-4575-4b60-9280-05bd4e24f5e7/d998addc-b2e7-4931-962d-46826daf0755"
       (reference "J3") (unit 1) (value "BMS I2C") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
     )
     (path "/5a0cf2af-562f-4c93-aa06-b80080350c15/0e1ec2e7-fca0-4829-89d5-df370423a2a8"
-      (reference "J4") (unit 1) (value "5V") (footprint "Connector_Wire:SolderWire-0.5sqmm_1x02_P4.8mm_D0.9mm_OD2.3mm")
+      (reference "J4") (unit 1) (value "5V") (footprint "Teapot:PogoPinContact_2_P4.8mm_D2.3mm_H0.7mm")
     )
     (path "/5a239eb7-1ff2-4664-858a-1c1aa6ab12a3/301f5840-24ce-4b79-bb06-73c34e0791e2"
       (reference "J5") (unit 1) (value "USB_67298-4090") (footprint "Teapot:MOLEX_USB_67298-4090")
     )
     (path "/5a0cf2af-562f-4c93-aa06-b80080350c15/e1f7c122-09ea-49e6-9371-414d2acc00c0"
-      (reference "J6") (unit 1) (value "12V") (footprint "Connector_Wire:SolderWire-0.5sqmm_1x02_P4.8mm_D0.9mm_OD2.3mm")
+      (reference "J6") (unit 1) (value "12V") (footprint "Teapot:PogoPinContact_2_P4.8mm_D2.3mm_H0.7mm")
     )
     (path "/5a239eb7-1ff2-4664-858a-1c1aa6ab12a3/a77c7cba-02f9-41d4-bd65-1f384bd8b3e5"
       (reference "J7") (unit 1) (value "USB_OTG") (footprint "Teapot:USB_Micro-B_EDAC_UCON00686")
